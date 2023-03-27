@@ -25,4 +25,4 @@ Passos para reproduzir:
 
 ![image](https://user-images.githubusercontent.com/129014180/227844375-81fb865d-ca76-4813-b118-88dfee6a1f6f.png)
 
-7 - Na aba Test estão os casos de testes que estão sendo validados
+7 - Na aba Tests estão os casos de testes que estão sendo validados
